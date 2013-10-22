@@ -6,7 +6,7 @@
 // ******************************************/ 
 //  Usage:
 //  var myYoYouButton = new YoYoButton(sandbox, api_key);
-//  myYoYoButton.open(email, country_code, security_token);   
+//  myYoYoButton.open(email, security_token);   
 //  
 //  *****************************************/
 
