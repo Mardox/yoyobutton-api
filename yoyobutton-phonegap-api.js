@@ -17,7 +17,6 @@
     //apikey : live key 
     var YoYoButton = function(sandbox, apikey){
         this.sand_box_mode = sandbox;
-        this.user_email = email;
         this.api_key = apikey;
         this.handeled = false;
 
