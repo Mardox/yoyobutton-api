@@ -73,6 +73,10 @@
     }
 
     //email validator
+    //returns true if the argument is an email
+    // email
+    //----------------------------------------
+    //return: boolean
     function isEmail(email){
         var x=email;
         var atpos=x.indexOf("@");
