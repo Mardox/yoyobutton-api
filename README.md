@@ -1,4 +1,4 @@
-yoyobutton-PhoneGap-api
+YoYo Button PhoneGap API
 ==============
 
 A simple and easy to use PhoneGap Javascript library to implement YoYoButton in  your HTML based Apps.
